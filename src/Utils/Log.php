@@ -6,7 +6,7 @@
  * Time: 16:37
  */
 
-namespace YeiKai\Utils;
+namespace Yr\Utils;
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\RotatingFileHandler;
 use Monolog\Logger as MonologLogger;

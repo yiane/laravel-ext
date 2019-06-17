@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YeiKai\\": "src"
+            "Yr\\": "src"
         }
     },
     "require-dev": {
